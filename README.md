@@ -1,1 +1,1 @@
-# Assignments_GEN_AI2
+# GEN_AI
